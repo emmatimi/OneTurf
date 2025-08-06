@@ -150,7 +150,11 @@ body {
         height: auto;
         align-items: flex-start;
     }
+
+    .hero-section .footer{
+        flex-direction:  column;
 }
+
 
 
 
