@@ -148,11 +148,12 @@ body {
 .hero-section .footer{
         flex-direction: column;
         height: auto;
-        align-items: flex-start;
+        align-items: center;
     }
 
     
 }
+
 
 
 
