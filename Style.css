@@ -151,9 +151,10 @@ body {
         align-items: flex-start;
     }
 
-    .hero-section .footer{
+    .hero-section .footer-btn{
         flex-direction:  column;
 }
+
 
 
 
