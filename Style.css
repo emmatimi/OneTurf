@@ -51,7 +51,7 @@ body {
 
 }
 
-.hero-section .hero-title {
+.hero-section .section-content h2 {
     color: #1769FF;
     font-weight: 600;
     font-size: 30px;
@@ -140,4 +140,5 @@ body {
         line-height: 25px;
     }
 }
+
 
