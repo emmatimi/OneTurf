@@ -139,6 +139,13 @@ body {
     .hero-section .hero-description{
         line-height: 25px;
     }
+
+.hero-section .footer{
+        flex-direction: column;
+        height: auto;
+        align-items: flex-start;
+    }
 }
+
 
 
