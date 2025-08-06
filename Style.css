@@ -97,6 +97,11 @@ body {
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
 }
+
+.footer .footer-btn{
+    display: flex;
+    gap: 40px;
+}
  .footer .btn{
     display: flex;
     align-items: center;
@@ -146,6 +151,7 @@ body {
         align-items: flex-start;
     }
 }
+
 
 
 
