@@ -154,7 +154,9 @@ body {
     .hero-section .footer-btn{
         flex-direction:  column;
         gap: 10px;
+    }
 }
+
 
 
 
